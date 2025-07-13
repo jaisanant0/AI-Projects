@@ -57,6 +57,11 @@ The system follows an intelligent workflow orchestrated by LangGraph:
 10. **💡 Generate Solutions**: Finds both AI-generated and Reddit-sourced solutions
 11. **📄 Generate Report**: Creates comprehensive PDF report with visualizations
 
+## 🖼️ UI
+
+![AI-Generated Market Report Preview](streamlit_ui.png)
+
+
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
